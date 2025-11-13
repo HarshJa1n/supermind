@@ -125,5 +125,5 @@ This is the core data ingestion flow. Execute these steps sequentially for every
     *   **Return Results:** The search results are returned to the user. The UI displays the title and summary of each result, translated into the user's selected UI language using the **Lingo SDK** for any dynamic fields.
 
 User
-we'll use all this too : trigger.dev, nextjs , shadcn , tailwind v4, drizzel orm, stack auth, pg and pgvector , gemini-2.5-flash, genai google sdk , add these with there basics and setups too, always use websearch to see how these work, project is initialised
+we'll use all this too : trigger.dev, nextjs , shadcn , tailwind v4, drizzel orm, stack auth, pg and pgvector , gemini-2.5-flash, genai google sdk , add these with there basics and setups too, you can  use websearch to see how these work, project is initialised
 This specification provides a complete and actionable guide for the implementation of Project Supermind.

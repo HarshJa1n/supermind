@@ -1,0 +1,169 @@
+{
+  "version": 0.1,
+  "files": {
+    "../app/page.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/11/1": {
+          "type": "element",
+          "hash": "de489cfbefd5cf0c241953ca9daa875e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "How It Works"
+        },
+        "1/declaration/body/0/argument/1/11/3/1/1": {
+          "type": "element",
+          "hash": "f0b21af10d6fae928d8d6b14d4864091",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "1"
+        },
+        "1/declaration/body/0/argument/1/11/3/1/3/1": {
+          "type": "element",
+          "hash": "21e1491aff1ef882a4c3bd2a0aaaf4f2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Install Browser Extension"
+        },
+        "1/declaration/body/0/argument/1/11/3/1/3/3": {
+          "type": "element",
+          "hash": "bbdbd7bee24fee9b3460b9a66fb44d28",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Add our extension to your browser and start capturing content from any website."
+        },
+        "1/declaration/body/0/argument/1/11/3/3/1": {
+          "type": "element",
+          "hash": "d8e37b996482ac84932d3d322c0128cf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "2"
+        },
+        "1/declaration/body/0/argument/1/11/3/3/3/1": {
+          "type": "element",
+          "hash": "7070bd52d9c48577450c62611953f807",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Capture and Save"
+        },
+        "1/declaration/body/0/argument/1/11/3/3/3/3": {
+          "type": "element",
+          "hash": "b7b79f86dc795e82974d46915ab23546",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Highlight text, save articles, or capture images. Everything is automatically translated and indexed."
+        },
+        "1/declaration/body/0/argument/1/11/3/5/1": {
+          "type": "element",
+          "hash": "75d1ee9e35cdaeed831e0268f7d37887",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "3"
+        },
+        "1/declaration/body/0/argument/1/11/3/5/3/1": {
+          "type": "element",
+          "hash": "fe005a90a366fe16d749cd81fa859146",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Search and Discover"
+        },
+        "1/declaration/body/0/argument/1/11/3/5/3/3": {
+          "type": "element",
+          "hash": "ea44c9312bfdd2a62a68e59d711bd18b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Use natural language to find exactly what you need, in any language you prefer."
+        },
+        "1/declaration/body/0/argument/1/3/3": {
+          "type": "element",
+          "hash": "fb81d189cfbb215eae943c33780bfdd4",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Welcome to Supermind"
+        },
+        "1/declaration/body/0/argument/1/3/5": {
+          "type": "element",
+          "hash": "c9ac09175aa2f529e27eb5e14d9dcbaf",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Your AI-powered personal knowledge management system. Capture web content in any language and search it in your own."
+        },
+        "1/declaration/body/0/argument/1/3/7/1": {
+          "type": "element",
+          "hash": "6630263a3abe398a1c2ea4d959830d94",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Get Started"
+        },
+        "1/declaration/body/0/argument/1/3/7/3": {
+          "type": "element",
+          "hash": "0b2570f410d05ae6ee5deb14c77a8997",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Learn More"
+        },
+        "1/declaration/body/0/argument/1/7/1/3": {
+          "type": "element",
+          "hash": "4e642a79b6fb4f884aac9c268d9057bb",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Multi-Language Support"
+        },
+        "1/declaration/body/0/argument/1/7/1/5": {
+          "type": "element",
+          "hash": "4b33d9b128eecb686ce18a0e96c12ea0",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Capture content in any language and access it seamlessly. Our AI automatically translates and indexes everything for you."
+        },
+        "1/declaration/body/0/argument/1/7/3/3": {
+          "type": "element",
+          "hash": "6cbef7efcecbea57617e22bd98583a5c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Smart Search"
+        },
+        "1/declaration/body/0/argument/1/7/3/5": {
+          "type": "element",
+          "hash": "3cae78df730e99a2c53785e155462a2e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Find what you need with powerful semantic search. Search in your language, find content in any language."
+        },
+        "1/declaration/body/0/argument/1/7/5/3": {
+          "type": "element",
+          "hash": "1afea2a7e51ea71082b7acbffd2371d1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Instant Capture"
+        },
+        "1/declaration/body/0/argument/1/7/5/5": {
+          "type": "element",
+          "hash": "e1faf366d5afe0ed426a62d34fe73545",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Save articles, images, and highlights with one click using our browser extension. Your knowledge, instantly organized."
+        }
+      }
+    }
+  }
+}
